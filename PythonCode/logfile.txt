@@ -1,0 +1,3 @@
+trialnr	trialstart	trialend	disengagementtime	imagepair
+0	3853.03671912	45441.0514954	add in the disengagement time (diff between fixation start 1 and 2)	['C:\\Users\\Tom\\Desktop\\PythonCode\\Female\\F24SA_resi.jpg', 'C:\\Users\\Tom\\Desktop\\PythonCode\\Female\\F24NE_result_square.jpg', True]
+1	45478.0815157	68964.9140888	add in the disengagement time (diff between fixation start 1 and 2)	['C:\\Users\\Tom\\Desktop\\PythonCode\\male\\M09HA_resi.jpg', 'C:\\Users\\Tom\\Desktop\\PythonCode\\male\\M09NE_result_square.jpg', True]
